@@ -1,0 +1,11 @@
+C:\Users\marti\source\repos\ConsoleApp_BatailleNavaleV2\ConsoleApp_BatailleNavaleV2\bin\Debug\ConsoleApp_BatailleNavaleV2.exe.config
+C:\Users\marti\source\repos\ConsoleApp_BatailleNavaleV2\ConsoleApp_BatailleNavaleV2\bin\Debug\ConsoleApp_BatailleNavaleV2.exe
+C:\Users\marti\source\repos\ConsoleApp_BatailleNavaleV2\ConsoleApp_BatailleNavaleV2\bin\Debug\ConsoleApp_BatailleNavaleV2.pdb
+C:\Users\marti\source\repos\ConsoleApp_BatailleNavaleV2\ConsoleApp_BatailleNavaleV2\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\marti\source\repos\ConsoleApp_BatailleNavaleV2\ConsoleApp_BatailleNavaleV2\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\marti\source\repos\ConsoleApp_BatailleNavaleV2\ConsoleApp_BatailleNavaleV2\obj\Debug\ConsoleApp_BatailleNavaleV2.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\ConsoleApp_BatailleNavaleV2\ConsoleApp_BatailleNavaleV2\obj\Debug\ConsoleApp_BatailleNavaleV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\marti\source\repos\ConsoleApp_BatailleNavaleV2\ConsoleApp_BatailleNavaleV2\obj\Debug\ConsoleApp_BatailleNavaleV2.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\ConsoleApp_BatailleNavaleV2\ConsoleApp_BatailleNavaleV2\obj\Debug\ConsoleApp_BatailleNavaleV2.csproj.CopyComplete
+C:\Users\marti\source\repos\ConsoleApp_BatailleNavaleV2\ConsoleApp_BatailleNavaleV2\obj\Debug\ConsoleApp_BatailleNavaleV2.exe
+C:\Users\marti\source\repos\ConsoleApp_BatailleNavaleV2\ConsoleApp_BatailleNavaleV2\obj\Debug\ConsoleApp_BatailleNavaleV2.pdb
